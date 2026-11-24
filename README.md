@@ -6,7 +6,7 @@
 
 [English](README.md) · [Русский](README.ru.md)
 
-Anemos Aircraft is a student project from Selçuk University in Konya, Turkey. We are designing a small electric drone that takes off and lands vertically and flies like an airplane in between.
+Anemos Aircraft is an aircraft design and manufacturing company. We are designing a small electric drone that takes off and lands vertically and flies like an airplane in between.
 
 This repository holds the public side of the project: the brand kit and a short description of the aircraft. Everything else stays in our working repository.
 
